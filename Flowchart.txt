@@ -1,0 +1,16 @@
+1. Login/SignUp Page:
+      Login : UserName,Password,Remember Me,Login btn
+      SignUp : UserName,Password,Retype Password, Email, Register btn
+     (Floating in the middle of the screen)
+      About : at the bottom, providing info abt the creator of the website.
+   
+2. After you enter Login/Signup info:
+      4 buttons: Home, My account, chats, Notifications
+      Home: The feed where other pictures or photos appear
+      My Account: More about the CLient i.e full name, likes,dislikes, something       about themselves(bio), mobile no, email, social media handles.
+      Chats : People whom you can talk with/have talked before.
+      Notification : who added you, who liked your picture/commented on it.
+
+3. Account Page:
+   Name, Address, work, education, places youve lived,
+   Relationship, gender, phone no. caste-subcaste,religion

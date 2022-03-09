@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(images/couple.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+/* .register{ */
+    /* background: transparent; */
+    /* color: white; */
+    /* font-size: 18px; */
+    /* padding: 20px; */
+    /* border-radius: 10px; */
+/*  */
+/* } */
+
+#gender{
+    color: white;
+}
+
+
+#register{
+    margin-left: 50px;
+
+}
+label{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#name{
+    width: 300px;
+    border: none;
+    outline: 0;
+    padding: 7px;
+
+}
+
+#sub{
+    width: 200px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+}
+.msg {
+    margin: 30px auto; 
+    padding: 10px; 
+    border-radius: 5px; 
+    color: #3c763d; 
+    background: #dff0d8; 
+    border: 1px solid #3c763d;
+    width: 50%;
+    text-align: center;
+}
+body {
+    font-size: 15px;
+}
+table{
+    width: 70%;
+    margin: 50px auto;
+    border-collapse: collapse;
+    text-align: left;
+    color: white;
+}
+tr {
+    border-bottom: 1px solid #cbcbcb;
+}
+th, td{
+    border: none;
+    height: 30px;
+    padding: 18px;
+}
+tr:hover {
+    background:transparent;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
